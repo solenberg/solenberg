@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is James and I like to learn things (yeah yeah, I know this github is empty... I'm working on that).
-
-Currently, I'm studying [org-formation](https://github.com/org-formation), and working on getting familiar with AWS [CDK](https://aws.amazon.com/cdk)
+Hi, I'm James. One day I will do something fun here.
 
 <!--
 **solenberg/solenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
